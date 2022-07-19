@@ -1,24 +1,15 @@
-# README - Learning Journey step 7
+# SOC Pre-Work
 
-## 7.2 - Your Tribute Page
+## 7.2 Tribute Page
 
-You will now be using git and vscode to:
+This is a repo used for Task 7.2 during the SoC application pre-work. 
 
-  * _clone_ your repository to your local machine (use the HTTPS link)
+The task was to use git and VSCode to:
 
-  * _update_ the sample HTML and CSS files with your own code (from CodePen) 
+  * _Clone_ a repository to our local machine.
 
-  * _add, commit and push_ your changes to your brand new repository. Pretty cool eh?
+  * _Update_ the sample HTML and CSS files with our own code.
 
-<details>
-  <summary>Super Secret Hint</summary>
-  All of these steps have been covered in step 6 of your *learning journey* if you need any clues as to what to do maybe think about looking back at these resources 🤷
- 
- Link to instructions on cloning:https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository
-</details>
-
-## 7.3 - Deploying your site using github Pages
-
-Follow the guide [HERE](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site)
-
-Make sure that the deployed branch is `main` in settings.
+  * _Add, commit and push_ changes to the brand new repository.
+  
+  * Deploy the site using GitHub Pages.
